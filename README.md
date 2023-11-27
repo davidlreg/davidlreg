@@ -23,4 +23,6 @@ I'm currently working as a frontend developer in Germany, where my journey invol
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/davidlreg/) or [LinkedIn](https://www.linkedin.com/in/davidgerliz/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/davidlreg/) or [LinkedIn](https://www.linkedin.com/in/davidgerliz/).
+
+ For professional inquiries, reach out via email at [davidlreg.contact@gmail.com](mailto:davidlreg.contact@gmail.com).
