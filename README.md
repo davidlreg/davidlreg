@@ -11,14 +11,14 @@ I'm a 21-year-old aspiring web developer based in Germany, and I'm passionate ab
 I'm currently studying for my career as a front-end web developer, where my journey involves both building websites and coding smaller programs. Here is what I am currently focused on:
 
 - I'm engaged in exciting frontend projects.
-- I'm exploring JavaScript and React to enhance my skill set.
+- I'm exploring JavaScript and Angular to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
 ## ✨ Fun Facts 
 
 - Rick and Morty is my favorite sitcom.
 - As a kid, I wanted to be a Police Officer.
-- HTML was my first programming language.
+- HTML was my first "programming language".
 - I love using Windows and Mac for programming.
 
 ## 📫 Contact
