@@ -18,7 +18,7 @@ I'm currently studying for my career as a front-end web developer, where my jour
 
 - Rick and Morty is my favorite sitcom.
 - As a kid, I wanted to be a Police Officer.
-- HTML was my first "programming language".
+- HTML was my first "computer language".
 - I love using Windows and Mac for programming.
 
 ## 📫 Contact
