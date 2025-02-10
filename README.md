@@ -23,6 +23,6 @@ I'm currently studying for my career as a front-end web developer, where my jour
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/davidlreg0202/) or [LinkedIn](https://www.linkedin.com/in/davidgerliz/).
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/davidgerliz/).
 
  For professional inquiries, reach out via email at [davidlreg.contact@gmail.com](mailto:davidlreg.contact@gmail.com).
