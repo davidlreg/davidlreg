@@ -3,7 +3,7 @@
 I'm a aspiring web developer based in Germany, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://davidlreg.com/) to learn more about me.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/davidgerliz/) and [YouTube](https://www.youtube.com/@davidlreg).
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/davidgerliz/).
 - Explore my [VS Code Configuration](https://github.com/davidlreg/vscode-settings) for development optimization.
 
 ## 🔭 Current Endeavors 
