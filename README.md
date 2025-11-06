@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I am a frontend developer from Germany, passionate about crafting digital experiences</h3>
 <h3 align="center">👉 Discover more about my projects and journey on my <a href="https://davidlreg.com/">website</a></h3>
 
 </br>
@@ -17,7 +16,7 @@
 </br>
 
 ## 🔭 Current Endeavors 
-🌱 I’m currently learning **for my career as a front-end web developer, where my journey involves both building websites and coding smaller programs**. Here is what I am currently focused on:
+🌱 Here is what I am currently focused on:
 
 - I'm engaged in exciting frontend projects
 - I'm exploring Java, TypeScript and Angular to enhance my skill set
