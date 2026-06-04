@@ -5,7 +5,7 @@
 
 ## 📫 Contact
 <p>For a quick response, DM me on LinkedIn</p>
-<p>For professional inquiries, reach out via email at <a href="mailto:davidlreg.contact@gmail.com">davidlreg.contact@gmail.com</a></p>
+<p>For professional inquiries, reach out via email at <a href="mailto:contactme.avalanche914@passinbox.com">contactme.avalanche914@passinbox.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <table>
@@ -26,12 +26,6 @@
 - Explore my [VS Code Configuration](https://github.com/davidlreg/vscode-settings) for development optimization
 
 <br/>
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidlreg&show_icons=true&locale=en&layout=compact" alt="davidlreg" height="150" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=davidlreg&show_icons=true&locale=en" alt="davidlreg" height="150"/>
-</p>
 
 ## 🛠️ Languages & Tools
 <table>
